@@ -1,7 +1,11 @@
 # Applied-Data-Science-Projects-Portfolio
 Applied Data Science portfolio featuring end-to-end projects in data analysis, machine learning, NLP, visualization, and predictive modeling. Demonstrates data cleaning, EDA, feature engineering, model development, evaluation, and deployment using Python, SQL, and industry-standard data science tools.
 <br>
-Owner - Titan Kumar Biswas(linkedin.com/in/titan-kumar-biswas-198875290)
+## Owner
+
+**Titan Kumar Biswas**
+🔗 LinkedIn: [Titan Kumar Biswas](https://www.linkedin.com/in/titan-kumar-biswas-198875290/)
+
 <h2>Key Highlights</h2>
 
 <ul>
